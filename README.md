@@ -13,7 +13,7 @@ This repository is a project designed to help me transition from theory to pract
 
 ### VirtualBox
 
-![Configured VirtualBox machines](https://imgur.com/a/mrVx571)
+![Configured VirtualBox machines](https://i.imgur.com/rNeMUVX.png)
 
 - [x] Create machines using the [Windows Server 2022](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022) & [Windows 11 Enterprise](https://www.microsoft.com/en-us/evalcenter/download-windows-11-enterprise) ISO files with virtual box.
 - [x] Configure machine names, hardware, and network adapter settings.
