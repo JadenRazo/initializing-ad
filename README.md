@@ -17,5 +17,8 @@ This repository is a project designed to help me transition from theory to pract
 - [x] Started the machines, ensured the machines used a secure password, and the network is isolated.
 - [x] Create AD forest, domain, and activated AD Domain Services & DNS.
 
+### VirtualBox Photos
 ![Configured VirtualBox machines](https://i.imgur.com/TKRawoI.png)
 ![AD Services configured](https://i.imgur.com/0paIYE5.png)
+
+
