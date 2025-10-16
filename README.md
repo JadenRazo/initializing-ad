@@ -1,4 +1,4 @@
-# AD PROJECT #1: Initializing and utilizing AD
+# AD PROJECT: Initializing and utilizing AD
 
 ## Overview 
 This repository is a project aimed at helping me transition from theory to practical application. We'll use solutions such as Oracle VirtualBox, Windows Server 2022, and Active Directory. The goal of this project is to further my education in enterprise technology.
