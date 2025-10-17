@@ -22,7 +22,7 @@ This repository is a project designed to help me transition from theory to pract
 
 ![Configured VirtualBox machines](https://i.imgur.com/W6HHmLe.png)
 
-The image below shows a running **Active Directory Domain Service** and **DNS**.
+> The image below shows a running **Active Directory Domain Service** and **DNS**.
 
 ![AD Services configured](https://i.imgur.com/0paIYE5.png)
 
