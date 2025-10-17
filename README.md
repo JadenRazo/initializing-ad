@@ -17,8 +17,11 @@ This repository is a project designed to help me transition from theory to pract
 - [x] Started the machines, ensured the machines used a secure password, and the network is isolated.
 - [x] Create AD forest, domain, and activated AD Domain Services & DNS.
 
-### VirtualBox Photos
-![Configured VirtualBox machines](https://i.imgur.com/TKRawoI.png)
+### VirtualBox setup photos
+The screenshot below displays a fully operational and well-configured VirtualBox running Windows Server 2022 & Windows 11 Enterprise. 
+![Configured VirtualBox machines](https://i.imgur.com/W6HHmLe.png)
+> The screenshot seen below presents a running Active Directory Domain Service and DNS.
 ![AD Services configured](https://i.imgur.com/0paIYE5.png)
-
+> The photo below shows the configured Organizational Units. 
+![OUs configured](https://i.imgur.com/xqg5QGX.png)
 
