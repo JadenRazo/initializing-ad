@@ -18,6 +18,9 @@ This repository is a project designed to help me transition from theory to pract
 - [x] Create AD forest, domain, and activated AD Domain Services & DNS.
 
 ## VirtualBox setup photos
+
+### Below you'll find photos which will depict the entire process of the project. 
+
 > The screenshot below displays a fully operational and well-configured **VirtualBox** running **Windows Server 2022** & **Windows 11 Enterprise**.
 
 ![Configured VirtualBox machines](https://i.imgur.com/W6HHmLe.png)
