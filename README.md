@@ -30,7 +30,11 @@ This repository is a project designed to help me transition from theory to pract
 
 ![OUs configured](https://i.imgur.com/xqg5QGX.png)
 
-> The screenshot, as shown below, displays **User Accounts** and **Security Groups** to replicate the standard onboarding process.
+> The screenshot, as shown below, displays properly configured **User Accounts** and **Security Groups** to replicate the standard onboarding process.
  
 ![OUs configured](https://i.imgur.com/u2D6RfI.png)
+
+> The image shown below shows the client properly connected with the server. It now authenticates against the **Domain Controller**, allowing for centralized user logins and future management via **Group Policy**.
+
+![OUs configured](https://i.imgur.com/Wh4SFFI.png)
 
