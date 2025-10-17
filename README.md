@@ -19,7 +19,7 @@ This repository is a project designed to help me transition from theory to pract
 
 ## VirtualBox setup photos
 
-### This section displays the process of the project showing each section of progress.
+### This section displays the process of the project, showing each section of progress.
 
 > The screenshot below displays a fully operational and well-configured **VirtualBox** running **Windows Server 2022** & **Windows 11 Enterprise**.
 
@@ -41,3 +41,6 @@ This repository is a project designed to help me transition from theory to pract
 
 ![OUs configured](https://i.imgur.com/Wh4SFFI.png)
 
+> This final image depicts a successful file transfer from the **Domain Controller** to the **Domain Client**.
+
+![OUs configured](https://i.imgur.com/04q47IX.png)
