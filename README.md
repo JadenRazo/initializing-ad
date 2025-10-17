@@ -43,4 +43,4 @@ This repository is a project designed to help me transition from theory to pract
 
 > This final image depicts a successful file transfer from the **Domain Controller** to the **Domain Client**.
 
-![OUs configured](https://i.imgur.com/04q47IX.png)
+![OUs configured](https://i.imgur.com/x3eJ5z1.png)
