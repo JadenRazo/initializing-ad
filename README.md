@@ -18,15 +18,19 @@ This repository is a project designed to help me transition from theory to pract
 - [x] Create AD forest, domain, and activated AD Domain Services & DNS.
 
 ### VirtualBox setup photos
-> The screenshot below displays a fully operational and well-configured VirtualBox running Windows Server 2022 & Windows 11 Enterprise.
-> 
+> The screenshot below displays a fully operational and well-configured **VirtualBox** running **Windows Server 2022** & **Windows 11 Enterprise**.
+
 ![Configured VirtualBox machines](https://i.imgur.com/W6HHmLe.png)
 
-> The screenshot seen below presents a running Active Directory Domain Service and DNS.
-> 
+The image below shows a running **Active Directory Domain Service** and **DNS**.
+
 ![AD Services configured](https://i.imgur.com/0paIYE5.png)
 
-> The photo below shows the configured Organizational Units.
-> 
+> The photo below shows the configured **Organizational Units**.
+
 ![OUs configured](https://i.imgur.com/xqg5QGX.png)
+
+> The screenshot, as shown below, displays **User Accounts** and **Security Groups** to replicate the standard onboarding process.
+ 
+![OUs configured](https://i.imgur.com/u2D6RfI.png)
 
