@@ -19,7 +19,7 @@ This repository is a project designed to help me transition from theory to pract
 
 ## VirtualBox setup photos
 
-### Below you'll find photos which will depict the entire process of the project. 
+### This section displays the process of the project showing each section of progress.
 
 > The screenshot below displays a fully operational and well-configured **VirtualBox** running **Windows Server 2022** & **Windows 11 Enterprise**.
 
